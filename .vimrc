@@ -40,5 +40,6 @@ colorscheme onedark
 
 call plug#begin()
 Plug 'sheerun/vim-polyglot'
+Plug 'vim-jp/vimdoc-ja'
 call plug#end()
 

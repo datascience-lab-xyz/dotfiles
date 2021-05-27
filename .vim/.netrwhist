@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/masaki/.tmux_config'
+let g:netrw_dirhist_6='/Users/masaki/test'
+let g:netrw_dirhist_5='/Users/masaki'
+let g:netrw_dirhist_4='/Users'
+let g:netrw_dirhist_3='/Users/masaki'
+let g:netrw_dirhist_2='/Users/masaki/Documents/programming/datascience-lab/stockmarket-watcher'
+let g:netrw_dirhist_1='/Users/masaki/Documents'
+let g:netrw_dirhist_0='/Users/masaki/Documents/$RECYCLE.BIN'
+let g:netrw_dirhist_9='/Users/masaki/Documents'
+let g:netrw_dirhist_8='/Users/masaki/Documents/$RECYCLE.BIN'
